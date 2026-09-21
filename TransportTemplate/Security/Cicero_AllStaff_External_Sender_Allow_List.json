@@ -1,5 +1,5 @@
 {
-  "name":"All Employee Dist List Restrictions",
+  "name":"AllStaff External Sender Allow List",
   "comments":"\n",
   "AnyOfToCcHeader":["AllStaff@%defaultdomain%"],
   "ApplyOME":false,
