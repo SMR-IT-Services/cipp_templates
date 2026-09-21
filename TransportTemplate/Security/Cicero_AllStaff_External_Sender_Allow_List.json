@@ -3,7 +3,7 @@
   "RowKey": "acf25515-d031-4578-89ee-966a2bf3e031",
   "JSON": {
     "name": "AllStaff External Sender Allow List",
-    "comments": "\n",
+    "comments": "This Transport rule blocks all inbound emails to the AllStaff Dynamic distrobution list, ecept for Cicero Therapies and the default domain for this tenant",
     "AnyOfToCcHeader": ["AllStaff@%tenantfilter%"],
     "ApplyOME": false,
     "AttachmentHasExecutableContent":false,
