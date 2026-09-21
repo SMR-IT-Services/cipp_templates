@@ -1,6 +1,6 @@
 {
   "PartitionKey": "TransportTemplate",
-  "RowKey": "Cicero-AllStaff-External-Sender-Allow-List",
+  "RowKey": "ee9548b9-900e-49b6-bca9-c607546b6967",
   "JSON": {
     "name": "AllStaff External Sender Allow List",
     "comments": "This transport rule blocks all inbound emails to the AllStaff Dynamic distribution list, except for Cicero Therapies and the default domain for this tenant",
