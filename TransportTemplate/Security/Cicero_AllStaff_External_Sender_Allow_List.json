@@ -2,7 +2,7 @@
   "PartitionKey": "TransportTemplate",
   "RowKey": "acf25515-d031-4578-89ee-966a2bf3e031",
   "JSON": {
-    "name": "All Employee Dist List Restrictions",
+    "name": "AllStaff External Sender Allow List",
     "comments": "\n",
     "AnyOfToCcHeader": ["AllStaff@%tenantfilter%"],
     "ApplyOME": false,
