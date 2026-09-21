@@ -1,6 +1,6 @@
 {
   "PartitionKey": "TransportTemplate",
-  "RowKey": "acf25515-d031-4578-89ee-966a2bf3e031",
+  "RowKey": "Cicero-AllStaff-External-Sender-Allow-List", // GUID of the template. Set to either an identifable slug or generated via powershell '[guid]::NewGuid().Guid'
   "JSON": {
     "name": "AllStaff External Sender Allow List",
     "comments": "This Transport rule blocks all inbound emails to the AllStaff Dynamic distrobution list, ecept for Cicero Therapies and the default domain for this tenant",
