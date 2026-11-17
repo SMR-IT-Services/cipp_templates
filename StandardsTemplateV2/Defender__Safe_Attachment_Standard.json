@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "676b6f10-b4b2-4b6e-baa9-baf945480a9d",
+  "GUID": "676b6f10-b4b2-4b6e-baa9-baf945480a9d",
+  "JSON": "{\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"excludedTenants\":[],\"templateName\":\"Defender - Safe Attachment (Standard)\",\"standards\":{\"SafeAttachmentPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SafeAttachmentPolicy\":{\"name\":\"SMR CIPP - Safe Attachment (Standard)\",\"SafeAttachmentAction\":\"DynamicDelivery\",\"QuarantineTag\":\"AdminOnlyAccessPolicy\",\"Redirect\":false}}}},\"runManually\":true,\"GUID\":\"676b6f10-b4b2-4b6e-baa9-baf945480a9d\",\"createdAt\":\"2026-11-17T16:56:42.0739859Z\",\"updatedBy\":\"mbremer@smr.us\",\"updatedAt\":\"2026-11-17T16:56:42.0744426Z\"}"
+}
