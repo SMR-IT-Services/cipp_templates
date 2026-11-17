@@ -1,6 +1,10 @@
 {
   "PartitionKey": "StandardsTemplateV2",
   "RowKey": "d74882c0-2737-4b0b-88f2-925aa429fe41",
+  "ContentHash": "d548007f1afa75a451120f19bdf1636a0ecc4b6c9b055f7b23a2a19bf7657096",
   "GUID": "d74882c0-2737-4b0b-88f2-925aa429fe41",
-  "JSON": "{\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"excludedTenants\":[],\"templateName\":\"Defender - SafeLinks (Standard)\",\"standards\":{\"SafeLinksPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SafeLinksPolicy\":{\"name\":\"SMR CIPP - SafeLinks (Standard)\",\"AllowClickThrough\":false,\"DisableUrlRewrite\":false,\"EnableOrganizationBranding\":false}}}},\"runManually\":true,\"GUID\":\"d74882c0-2737-4b0b-88f2-925aa429fe41\",\"createdAt\":\"2026-11-17T16:58:41.4777174Z\",\"updatedBy\":\"mbremer@smr.us\",\"updatedAt\":\"2026-11-17T16:58:41.4780777Z\"}"
+  "JSON": "{\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"excludedTenants\":[],\"templateName\":\"Defender - SafeLinks (Standard)\",\"standards\":{\"SafeLinksPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SafeLinksPolicy\":{\"name\":\"SMR CIPP - SafeLinks (Standard)\",\"AllowClickThrough\":false,\"DisableUrlRewrite\":false,\"EnableOrganizationBranding\":false}}}},\"runManually\":false,\"GUID\":\"d74882c0-2737-4b0b-88f2-925aa429fe41\",\"createdAt\":\"2026-11-17T19:24:27.3565292Z\",\"updatedBy\":\"mbremer@smr.us\",\"updatedAt\":\"2026-11-17T19:24:27.3569098Z\"}",
+  "SHA": "f0a7c8d504485fb992128db696f5a5246ab01399",
+  "Source": "SMR-IT-Services/cipp_templates",
+  "SourcePath": "StandardsTemplateV2/Defender__SafeLinks_Standard.json"
 }
