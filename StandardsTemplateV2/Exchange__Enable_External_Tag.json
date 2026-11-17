@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "60ba28c2-cf95-4c2b-9cfd-9c42071b45bc",
+  "GUID": "60ba28c2-cf95-4c2b-9cfd-9c42071b45bc",
+  "JSON": "{\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"templateName\":\"Exchange - Enable External Tag\",\"standards\":{\"SpoofWarn\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SpoofWarn\":{\"state\":{\"label\":\"Enabled\",\"value\":\"enabled\"}}}}},\"runManually\":false,\"GUID\":\"60ba28c2-cf95-4c2b-9cfd-9c42071b45bc\",\"createdAt\":\"2026-11-17T19:27:56.9462153Z\",\"updatedBy\":\"mbremer@smr.us\",\"updatedAt\":\"2026-11-17T19:27:56.9466082Z\"}"
+}
