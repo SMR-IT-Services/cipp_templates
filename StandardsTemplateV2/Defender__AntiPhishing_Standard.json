@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "60b986de-e539-4c41-be16-6b0525477b72",
+  "GUID": "60b986de-e539-4c41-be16-6b0525477b72",
+  "JSON": "{\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"excludedTenants\":[],\"templateName\":\"Defender - Anti-Phishing (Standard)\",\"standards\":{\"AntiPhishPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"AntiPhishPolicy\":{\"name\":\"SMR CIPP - Anti-Phishing (Standard)\",\"PhishThresholdLevel\":1,\"EnableFirstContactSafetyTips\":true,\"EnableSimilarUsersSafetyTips\":true,\"EnableSimilarDomainsSafetyTips\":true,\"EnableUnusualCharactersSafetyTips\":true,\"AuthenticationFailAction\":\"Quarantine\",\"SpoofQuarantineTag\":\"AdminOnlyAccessPolicy\",\"TargetedUserProtectionAction\":\"Quarantine\",\"TargetedUserQuarantineTag\":\"AdminOnlyAccessPolicy\",\"TargetedDomainProtectionAction\":\"Quarantine\",\"TargetedDomainQuarantineTag\":\"AdminOnlyAccessPolicy\",\"MailboxIntelligenceProtectionAction\":\"Quarantine\",\"MailboxIntelligenceQuarantineTag\":\"AdminOnlyAccessPolicy\"}}}},\"runManually\":true,\"GUID\":\"60b986de-e539-4c41-be16-6b0525477b72\",\"createdAt\":\"2026-11-17T16:54:27.3336234Z\",\"updatedBy\":\"mbremer@smr.us\",\"updatedAt\":\"2026-11-17T16:54:27.3340011Z\"}"
+}
